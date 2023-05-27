@@ -14,7 +14,7 @@ This project aims to optimize the pricing strategy of a sizeable enterprise with
 
 ## Data
 
-The project utilizes historical ERP data provided by the company, which includes details about product SKUs, customers, and their transaction history. In lieu of client provided data, we will use the following data Source:
+The project utilizes historical ERP data provided by the client, which includes details about product SKUs, customers, and their transaction history. In lieu of client provided data, we will use the following data Source:
 https://archive-beta.ics.uci.edu/dataset/352/online+retail
 
 ## Instructions
@@ -27,7 +27,7 @@ https://archive-beta.ics.uci.edu/dataset/352/online+retail
 
 ## About the placeholder dataset
 
-"This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers."
+"This is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers."
 
 ## Data Dictionary
 
